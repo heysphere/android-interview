@@ -14,7 +14,7 @@ Thank you for choosing to apply to Sphere for our Android job opening.
 
    We will review your submission and then decide whether or not we should proceed to a face-to-face (F2F) interview stage.
 
-3. The F2F interview stage will involve non-technical sessions with our senior staff, and also a technical session with the iOS team.
+3. The F2F interview stage will involve non-technical sessions with our senior staff, and also a technical session with the Android team.
 
    The technical session will last for 90-120 minutes. We will start with a pairing session revolving around your project submission, that might involve (but not limited to) refactoring for improvement, improving test coverage, and conversations about design choices you have made.
    
